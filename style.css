@@ -1,0 +1,28 @@
+#heading{
+    border-radius: 5px;
+    border: 2px dotted white;
+    width:100%;
+}
+
+#h1{
+    width:100%;
+}
+
+#btn-play{
+    border-radius: 5px;
+    border: 2px dotted white;
+}
+
+.copy_right_footer{
+    width: 100%;
+    background-color: gray;
+    color: white;
+    position: fixed;
+}
+
+canvas{
+    background-color: orange;
+    border-radius: 10px;
+    border: 2px white dotted;
+    box-shadow: 2px 2px 2px 2px gray;
+}
